@@ -13,3 +13,4 @@ do{
     console.log(letra+numero);
     sigue = prompt("Desea sacar otra bola? S/N");
 } while (sigue == "S" || sigue == "s")
+
