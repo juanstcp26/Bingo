@@ -31,11 +31,6 @@ function getBingoCard() {
 
 function cartones() {
    return [
-       getBingoCard(),
-       getBingoCard(),
-       getBingoCard(),
-       getBingoCard(),
-       getBingoCard(),
        getBingoCard()
    ] 
 }
