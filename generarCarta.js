@@ -63,4 +63,5 @@ cards.forEach(card => {
     }
     html += '</tbody></table>';
 });
+console.log(cards);
 document.querySelector('#bingo-cards').innerHTML=html;
